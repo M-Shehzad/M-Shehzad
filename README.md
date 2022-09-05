@@ -1,6 +1,6 @@
 <h3>When I commited the code here, only God and I understood what it did. Now only God knows. 💀</h3>
 <div align="left">
-  <img src="public\cat-typing.gif" width="40%"/>
+  <img src="public\cat-typing.gif" width="50%"/>
  </div>
 <h4>Currently a CSE student with particular interests in web development and machine learning. I thoroughly enjoy creating new things. Seeing ideas and concepts come to life is one of my favorite parts of the development process. I look forward to growing and developing the skills I already have, as well as learning new ones!</h4>
 
@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning **Docker, ReactJS, DS algorithms**
 
 - 😊 But I'm currently **sleeping**
+
+- 📑 Here's [My Resume](https://drive.google.com/file/d/1y2vWx7Phvvyz9mGFu29ts-U669MWZGRG/view)
 
 - 📫 You can reach me at <a href="mailto:m.shehzadsajid@gmail.com" target="blank">m.shehzadsajid@gmail.com</a>
 
