@@ -10,8 +10,6 @@
 
 - 😊 But I'm currently **sleeping**
 
-- 📑 Here's [My Resume](https://drive.google.com/file/d/1y2vWx7Phvvyz9mGFu29ts-U669MWZGRG/view)
-
 - 📫 You can reach me at <a href="mailto:m.shehzadsajid@gmail.com" target="blank">m.shehzadsajid@gmail.com</a>
 
 <!-- <h3 align="left">Connect with me:</h3>
