@@ -4,9 +4,9 @@
  </div>
 <h4>Currently a CSE student with particular interests in web development and machine learning. I thoroughly enjoy creating new things. Seeing ideas and concepts come to life is one of my favorite parts of the development process. I look forward to growing and developing the skills I already have, as well as learning new ones!</h4>
 
-- 🔭 I’m currently working on **Internship projects**
+- 🔭 I’m currently working on **Academic projects**
 
-- 🌱 I’m currently learning **Docker, ReactJS, DS algorithms**
+- 🌱 I’m currently learning **Docker, Machine Learning, DS algorithms**
 
 - 😊 But I'm currently **sleeping**
 
