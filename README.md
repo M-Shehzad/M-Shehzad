@@ -1,4 +1,4 @@
-<h2 style="font-size:.5rem;">When I commited the code here, only God and I understood what it did. Now only God knows. 💀</h2>
+<h2 style="font-size:.5rem;">When I committed the code here, only God and I understood what it did. Now only God knows. 💀</h2>
 <div align="left">
   <img src="public\cat-typing.gif" width="50%"/>
  </div>
