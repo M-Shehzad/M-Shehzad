@@ -6,9 +6,8 @@
 
 - 🔭 I’m currently working on **Academic projects**
 
-- 🌱 I’m currently learning **Docker, Machine Learning, DS algorithms**
-
-- 😊 But I'm currently **sleeping**
+<!-- 🌱 I’m currently learning **Docker, Machine Learning, DS algorithms**
+- 😊 But I'm currently **sleeping**-->
 
 - 📫 You can reach me at <a href="mailto:m.shehzadsajid@gmail.com" target="blank">m.shehzadsajid@gmail.com</a>
 
